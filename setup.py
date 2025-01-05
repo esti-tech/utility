@@ -4,10 +4,10 @@ from setuptools import setup, find_packages
 
 setup(
     name='text_normalizer',
-    version='0.1',
+    version='0.2',
     description='A Python module for normalizing text at character and word levels.',
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Estifanos Abebaw',
+    author_email='tekle.estifanos.17@gmail.com',
     packages=find_packages(),  # This automatically finds all the Python files in the module
     install_requires=[],  # Add dependencies if needed
     classifiers=[
